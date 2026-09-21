@@ -26,8 +26,8 @@ Alongside this, I'm exploring how **AI/ML and deep learning** can be integrated 
 * 💻 **Competitive Programming:** Codeforces Expert · 500+ problems solved
 * 🏆 **ICPC Dhaka Regional:** Rank 40 · Honorable Mention
 * 🚁 **Undergraduate Thesis:** Autonomous indoor UAV navigation using LiDAR-based SLAM and optical-flow localization
-* 🎮 **Game Development:** `Unity` (including Android, AR projects) · `Godot` · `Game Jams`
-* 📐 Engineering projects involving simulation, optimization, programming, and physical systems
+* 💻 **Software & Development:** Experience building software projects across web, cloud, AI, game development, and application development
+* 📐 **Engineering:** Projects involving simulation, optimization, programming, and physical systems
 
 ---
 
@@ -85,7 +85,7 @@ A project reflecting my interest in applying algorithms and AI techniques to int
 
 **Game Development**
 
-`Unity` (including Android AR projects) · `Godot` · `Game Jams` · `Game Development`
+`Unity` · `AR` · `Godot` · `Game Jams`
 
 ---
 
